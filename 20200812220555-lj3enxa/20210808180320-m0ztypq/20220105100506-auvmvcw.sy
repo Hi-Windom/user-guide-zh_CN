@@ -1,5 +1,6 @@
 {
 	"ID": "20220105100506-auvmvcw",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20220105100506-auvmvcw",
@@ -96,20 +97,9 @@
 									"Data": "云端存储空间初始化总大小为 "
 								},
 								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "8G"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
+									"Type": "NodeTextMark",
+									"TextMarkType": "code",
+									"TextMarkTextContent": "8G"
 								}
 							]
 						}

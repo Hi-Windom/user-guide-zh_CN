@@ -1,5 +1,6 @@
 {
 	"ID": "20200828105441-r76vmu5",
+	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20200828105441-r76vmu5",
@@ -25,34 +26,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--workspace",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--workspace"
 				}
 			]
 		},
@@ -72,34 +51,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "~/Documents/SiYuan/",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "~/Documents/SiYuan/"
 				},
 				{
 					"Type": "NodeText",
@@ -127,34 +84,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--wd",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--wd"
 				}
 			]
 		},
@@ -192,34 +127,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--resident",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--resident"
 				}
 			]
 		},
@@ -239,34 +152,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--resident=true",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--resident=true"
 				},
 				{
 					"Type": "NodeText",
@@ -276,34 +167,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "true",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "true"
 				},
 				{
 					"Type": "NodeText",
@@ -330,34 +199,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "false",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "false"
 				},
 				{
 					"Type": "NodeText",
@@ -385,34 +232,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--readonly",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--readonly"
 				}
 			]
 		},
@@ -432,34 +257,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--readonly=true",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--readonly=true"
 				},
 				{
 					"Type": "NodeText",
@@ -487,34 +290,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--accessAuthCode",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--accessAuthCode"
 				}
 			]
 		},
@@ -534,56 +315,14 @@
 					}
 				},
 				{
-					"Type": "NodeBlockRef",
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeOpenParen",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeOpenParen",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeBlockRefID",
-							"Data": "20210104090909-20f2hvi",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeBlockRefSpace",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeBlockRefText",
-							"Data": "鉴权密码",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCloseParen",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCloseParen",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "block-ref",
+					"TextMarkBlockRefID": "20210104090909-20f2hvi",
+					"TextMarkBlockRefSubtype": "s",
+					"TextMarkTextContent": "鉴权密码"
 				},
 				{
 					"Type": "NodeText",
@@ -611,34 +350,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--ssl",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--ssl"
 				}
 			]
 		},
@@ -658,34 +375,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--ssl=true",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--ssl=true"
 				},
 				{
 					"Type": "NodeText",
@@ -713,34 +408,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--lang",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--lang"
 				}
 			]
 		},
@@ -760,34 +433,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--lang=zh_CN",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "--lang=zh_CN"
 				},
 				{
 					"Type": "NodeText",
@@ -797,34 +448,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "en_US",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "en_US"
 				},
 				{
 					"Type": "NodeText",
@@ -834,34 +463,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "zh_CN",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "zh_CN"
 				},
 				{
 					"Type": "NodeText",
@@ -871,34 +478,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "zh_CHT",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "zh_CHT"
 				},
 				{
 					"Type": "NodeText",
@@ -908,34 +493,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "en_US",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "en_US"
 				},
 				{
 					"Type": "NodeText",
@@ -945,34 +508,12 @@
 					}
 				},
 				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Type": "NodeTextMark",
 					"Properties": {
 						"id": ""
 					},
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "fr_FR",
-							"Properties": {
-								"id": ""
-							}
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`",
-							"Properties": {
-								"id": ""
-							}
-						}
-					]
+					"TextMarkType": "code",
+					"TextMarkTextContent": "fr_FR"
 				},
 				{
 					"Type": "NodeText",
