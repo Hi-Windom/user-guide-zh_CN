@@ -1,0 +1,20 @@
+{
+	"ID": "20230202154851-0gkjlui",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230202154851-0gkjlui",
+		"title": "快速开始",
+		"updated": "20230202154907"
+	},
+	"Children": [
+		{
+			"ID": "20230202154851-otm8kvk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230202154851-otm8kvk",
+				"updated": "20230202154851"
+			}
+		}
+	]
+}

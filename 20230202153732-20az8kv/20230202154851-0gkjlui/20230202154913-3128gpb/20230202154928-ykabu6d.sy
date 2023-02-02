@@ -1,0 +1,20 @@
+{
+	"ID": "20230202154928-ykabu6d",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230202154928-ykabu6d",
+		"title": "汐洛开发规范",
+		"updated": "20230202155021"
+	},
+	"Children": [
+		{
+			"ID": "20230202154928-g0rzbw7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230202154928-g0rzbw7",
+				"updated": "20230202154928"
+			}
+		}
+	]
+}
