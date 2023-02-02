@@ -3,6 +3,7 @@
 	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
+		"icon": "1f4a0",
 		"id": "20230202155101-q7xdraj",
 		"title": "路径规范",
 		"updated": "20230202201031"

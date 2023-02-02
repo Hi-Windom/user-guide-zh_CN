@@ -3,6 +3,7 @@
 	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
+		"icon": "1f90d",
 		"id": "20230202155025-3v1ivxi",
 		"title": "汐洛API",
 		"updated": "20230202155030"

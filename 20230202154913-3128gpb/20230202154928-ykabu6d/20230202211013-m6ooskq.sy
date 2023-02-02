@@ -1,0 +1,195 @@
+{
+	"ID": "20230202211013-m6ooskq",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "26a0",
+		"id": "20230202211013-m6ooskq",
+		"title": "代码审查",
+		"updated": "20230202211351"
+	},
+	"Children": [
+		{
+			"ID": "20230202211013-g5p79zd",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230202211013-g5p79zd",
+				"updated": "20230202211131"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "代码中不应当出现下列类型的代码："
+				}
+			]
+		},
+		{
+			"ID": "20230202211138-cqy4twk",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20230202211138-cqy4twk"
+			},
+			"Children": [
+				{
+					"ID": "20230202211138-kv0pppd",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20230202211138-kv0pppd"
+					},
+					"Children": [
+						{
+							"ID": "20230202211132-gwzyfiv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230202211132-gwzyfiv",
+								"updated": "20230202211153"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "意义不明且没有注释"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230202211156-arhiuhr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20230202211156-arhiuhr"
+					},
+					"Children": [
+						{
+							"ID": "20230202211156-gep92l2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230202211156-gep92l2",
+								"updated": "20230202211309"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "获取用户敏感信息并上传"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20230202211310-l9i53qm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20230202211310-l9i53qm"
+					},
+					"Children": [
+						{
+							"ID": "20230202211310-j1p7p3u",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20230202211310-j1p7p3u",
+								"updated": "20230202211330"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "擅自删除用户文件或数据"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20230202211336-iy1swto",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230202211336-iy1swto",
+				"updated": "20230202211345"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "案例："
+				}
+			]
+		},
+		{
+			"ID": "20230202211345-ijms94p",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230202211345-ijms94p",
+				"updated": "20230202211351"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Properties": {
+						"parent-style": "width: 50%;",
+						"style": "width: 10000px;"
+					},
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20230202211346-49a10de.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"width: 10000px;\" parent-style=\"width: 50%;\"}"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		}
+	]
+}

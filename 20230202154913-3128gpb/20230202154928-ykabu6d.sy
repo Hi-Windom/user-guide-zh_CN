@@ -3,6 +3,7 @@
 	"Spec": "1",
 	"Type": "NodeDocument",
 	"Properties": {
+		"icon": "1f530",
 		"id": "20230202154928-ykabu6d",
 		"title": "汐洛开发规范",
 		"updated": "20230202155021"
