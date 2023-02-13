@@ -1,0 +1,37 @@
+{
+	"ID": "20230214025749-q2k4tv9",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "274c",
+		"id": "20230214025749-q2k4tv9",
+		"title": "不推荐的API",
+		"updated": "20230214030046"
+	},
+	"Children": [
+		{
+			"ID": "20230214025749-lumjvun",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214025749-lumjvun",
+				"updated": "20230214030046"
+			},
+			"Children": [
+				{
+					"Type": "NodeTextMark",
+					"TextMarkType": "a inline-memo",
+					"TextMarkAHref": "https://www.electronjs.org/docs/latest/tutorial/notifications",
+					"TextMarkInlineMemoContent": "该API发送的通知并不能承诺送达用户，例如在windows系统上无法在开启免打扰后弹出通知。",
+					"TextMarkTextContent": "Notifications | Electron (electronjs.org)"
+				}
+			]
+		},
+		{
+			"ID": "20230214025905-s0ve9kh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214025905-s0ve9kh"
+			}
+		}
+	]
+}
