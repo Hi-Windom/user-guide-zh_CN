@@ -1,0 +1,20 @@
+{
+	"ID": "20230214225115-f6ij1gr",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230214225115-f6ij1gr",
+		"title": "辅助工具",
+		"updated": "20230214225122"
+	},
+	"Children": [
+		{
+			"ID": "20230214225115-hafrs4a",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214225115-hafrs4a",
+				"updated": "20230214225115"
+			}
+		}
+	]
+}

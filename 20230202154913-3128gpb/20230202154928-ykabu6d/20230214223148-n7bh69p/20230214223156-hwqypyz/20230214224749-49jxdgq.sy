@@ -1,0 +1,20 @@
+{
+	"ID": "20230214224749-49jxdgq",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230214224749-49jxdgq",
+		"title": "daisyUI",
+		"updated": "20230214224753"
+	},
+	"Children": [
+		{
+			"ID": "20230214224749-oh37x0d",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214224749-oh37x0d",
+				"updated": "20230214224749"
+			}
+		}
+	]
+}

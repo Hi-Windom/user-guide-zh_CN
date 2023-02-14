@@ -1,0 +1,41 @@
+{
+	"ID": "20230214223200-dtcufxd",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f530",
+		"id": "20230214223200-dtcufxd",
+		"title": "Vue",
+		"updated": "20230214224544"
+	},
+	"Children": [
+		{
+			"ID": "20230214223200-eq27leh",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214223200-eq27leh",
+				"updated": "20230214224456"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "汐洛通过\u003cscript\u003e引入Vue全局对象，可以基于此开发第三方扩展，尽管不建议这么做。"
+				}
+			]
+		},
+		{
+			"ID": "20230214224456-en9sthz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214224456-en9sthz",
+				"updated": "20230214224544"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "给汐洛分支提交PR目前是不允许包含Vue内容的，请使用React技术线。"
+				}
+			]
+		}
+	]
+}

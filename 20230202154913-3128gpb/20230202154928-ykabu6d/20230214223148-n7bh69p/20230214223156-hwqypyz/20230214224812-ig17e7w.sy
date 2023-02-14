@@ -1,0 +1,40 @@
+{
+	"ID": "20230214224812-ig17e7w",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230214224812-ig17e7w",
+		"title": "Codux",
+		"updated": "20230214224953"
+	},
+	"Children": [
+		{
+			"ID": "20230214224812-i33d3ig",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214224812-i33d3ig",
+				"updated": "20230214224916"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "汐洛内部使用Codux。"
+				}
+			]
+		},
+		{
+			"ID": "20230214224917-scdq3it",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214224917-scdq3it",
+				"updated": "20230214224953"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "暂不接受使用Codux的PR。"
+				}
+			]
+		}
+	]
+}

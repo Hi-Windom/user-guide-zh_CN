@@ -1,0 +1,20 @@
+{
+	"ID": "20230214224730-sfzqpjf",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230214224730-sfzqpjf",
+		"title": "JoyUI",
+		"updated": "20230214224734"
+	},
+	"Children": [
+		{
+			"ID": "20230214224730-8belav9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214224730-8belav9",
+				"updated": "20230214224730"
+			}
+		}
+	]
+}

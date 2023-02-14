@@ -1,0 +1,27 @@
+{
+	"ID": "20230214223156-hwqypyz",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f30c",
+		"id": "20230214223156-hwqypyz",
+		"title": "React",
+		"updated": "20230214224635"
+	},
+	"Children": [
+		{
+			"ID": "20230214223156-f7zgktt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214223156-f7zgktt",
+				"updated": "20230214224635"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "汐洛内部使用React技术线，因此对React的支持较好，使用React的PR也是受欢迎的。"
+				}
+			]
+		}
+	]
+}

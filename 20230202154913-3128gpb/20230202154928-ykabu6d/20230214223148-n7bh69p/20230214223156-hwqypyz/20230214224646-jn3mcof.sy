@@ -1,0 +1,20 @@
+{
+	"ID": "20230214224646-jn3mcof",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230214224646-jn3mcof",
+		"title": "MobX",
+		"updated": "20230214224738"
+	},
+	"Children": [
+		{
+			"ID": "20230214224646-q55k1d5",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214224646-q55k1d5",
+				"updated": "20230214224646"
+			}
+		}
+	]
+}

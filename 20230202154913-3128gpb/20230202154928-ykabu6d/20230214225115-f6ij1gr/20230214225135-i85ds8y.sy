@@ -1,0 +1,20 @@
+{
+	"ID": "20230214225135-i85ds8y",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230214225135-i85ds8y",
+		"title": "linter",
+		"updated": "20230214225137"
+	},
+	"Children": [
+		{
+			"ID": "20230214225135-acbxzxx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214225135-acbxzxx",
+				"updated": "20230214225135"
+			}
+		}
+	]
+}

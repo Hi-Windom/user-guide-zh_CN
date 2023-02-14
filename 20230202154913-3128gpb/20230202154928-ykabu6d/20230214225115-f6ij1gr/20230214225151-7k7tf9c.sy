@@ -1,0 +1,20 @@
+{
+	"ID": "20230214225151-7k7tf9c",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20230214225151-7k7tf9c",
+		"title": "包管理",
+		"updated": "20230214225209"
+	},
+	"Children": [
+		{
+			"ID": "20230214225151-d91ugdc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214225151-d91ugdc",
+				"updated": "20230214225151"
+			}
+		}
+	]
+}

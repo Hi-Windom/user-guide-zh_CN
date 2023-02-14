@@ -1,0 +1,27 @@
+{
+	"ID": "20230214223825-wx4ax2m",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1f698",
+		"id": "20230214223825-wx4ax2m",
+		"title": "Svelte",
+		"updated": "20230214225038"
+	},
+	"Children": [
+		{
+			"ID": "20230214223825-ed8lol4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214223825-ed8lol4",
+				"updated": "20230214225038"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Svelte是很优秀的框架，尽管如此，汐洛不接受使用Svelte的PR。"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"ID": "20230214223148-n7bh69p",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "2734",
+		"id": "20230214223148-n7bh69p",
+		"title": "框架组件",
+		"updated": "20230214223231"
+	},
+	"Children": [
+		{
+			"ID": "20230214223148-8x4yqs1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230214223148-8x4yqs1",
+				"updated": "20230214223148"
+			}
+		}
+	]
+}
