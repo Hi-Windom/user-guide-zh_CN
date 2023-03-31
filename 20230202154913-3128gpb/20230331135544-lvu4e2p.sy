@@ -1,0 +1,95 @@
+{
+	"ID": "20230331135544-lvu4e2p",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"icon": "1faa7",
+		"id": "20230331135544-lvu4e2p",
+		"title": "开发者行为规范",
+		"updated": "20230331140310"
+	},
+	"Children": [
+		{
+			"ID": "20230331135705-d5ssyq0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230331135705-d5ssyq0",
+				"updated": "20230331135712"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "案例一："
+				}
+			]
+		},
+		{
+			"ID": "20230331135655-t3d81lc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230331135655-t3d81lc",
+				"updated": "20230331135655"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				},
+				{
+					"Type": "NodeImage",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeBang"
+						},
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "image"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "assets/image-20230331135655-2cz7lfk.png"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "​"
+				}
+			]
+		},
+		{
+			"ID": "20230331135713-6a2adxo",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230331135713-6a2adxo",
+				"updated": "20230331140310"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "这是典型的未正确了解源码，仅凭主观臆断进行恶意评论的行为。我们提倡每一位开发者都严格遵守不了解不评论的行为规范。在案例一中，换以准确的事实描述+疑问的方式提出自己的看法：“特点是功能不全版思源？我看我这里http请求被屏蔽了”，即不违反开发者行为规范。"
+				}
+			]
+		},
+		{
+			"ID": "20230331140130-tp2uucs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230331140130-tp2uucs"
+			}
+		}
+	]
+}
