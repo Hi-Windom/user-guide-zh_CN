@@ -33,7 +33,7 @@
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "给汐洛分支提交PR目前是不允许包含Vue内容的，请使用React技术线。"
+					"Data": "给汐洛提交PR目前是不允许包含Vue内容的，请使用React技术线。"
 				}
 			]
 		}
