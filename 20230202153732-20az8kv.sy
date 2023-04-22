@@ -6,7 +6,7 @@
 		"icon": "1f680",
 		"id": "20230202153732-20az8kv",
 		"title": "快速开始",
-		"updated": "20230419173738"
+		"updated": "20230422155615"
 	},
 	"Children": [
 		{
@@ -231,11 +231,40 @@
 			]
 		},
 		{
-			"ID": "20230419170504-qivnah7",
+			"ID": "20230422155615-7xhtqp3",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20230419170504-qivnah7"
+				"id": "20230422155615-7xhtqp3"
 			}
+		},
+		{
+			"ID": "20230422155503-lsb9yhc",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20230422155503-lsb9yhc",
+				"updated": "20230422155503"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "为什么环境要求如此严苛？"
+				}
+			]
+		},
+		{
+			"ID": "20230422155510-pald3bl",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20230422155510-pald3bl",
+				"updated": "20230422155546"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "汐洛致力于服务新彖务。如果您无法实现最低要求，即不会有新彖务的基础能力，即没有汐洛的必要需求。因此我们认为，如此严苛的环境是合理的，这也有助于我们维护。"
+				}
+			]
 		}
 	]
 }
